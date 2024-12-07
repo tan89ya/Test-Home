@@ -1,0 +1,24 @@
+@font-face {
+	font-family: Akrobat-h;
+	src: url(../fonts/Akrobat-Black.woff2);
+	font-weight: 700;
+}
+@font-face {
+	font-family: Calibri-h;
+	src: url(../fonts/calibri.woff2);
+	font-weight: 400;
+}
+@font-face {
+	font-family: Calibri-h;
+	src: url(../fonts/Calibri-Bold.woff2);
+	font-weight: 700;
+}
+:root {
+	--white-color: #fff;
+	--text-color: #000;
+	--accent-color: #F7A420;
+	--accent2-color: #19646B;
+	--grey-color: #666666;
+	--light-grey: #F2F7F7;
+}
+
